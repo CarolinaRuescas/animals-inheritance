@@ -1,8 +1,8 @@
-package org.ies.animals;
+package org.ies.animals.model;
 
 import java.util.Objects;
 
-public  class Pig extends Animal{
+public  class Pig extends Animal {
     private String feeding;
 
     public Pig(int age, String feeding) {

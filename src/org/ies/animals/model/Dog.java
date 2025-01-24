@@ -1,4 +1,4 @@
-package org.ies.animals;
+package org.ies.animals.model;
 
 import java.util.Objects;
 
